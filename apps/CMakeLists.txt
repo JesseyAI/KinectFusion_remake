@@ -1,0 +1,1 @@
+add_executable(fusion_app fusion.cpp)
